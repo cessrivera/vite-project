@@ -6,3 +6,4 @@ export default defineConfig({
   plugins: [react()],
   base: "/princessdianerivera.github.io/vite-project/"
 })
+
